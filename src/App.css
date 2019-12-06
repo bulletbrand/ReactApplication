@@ -19,6 +19,9 @@ a {
 a:hover {
     color: white;
 }
+.hide {
+    display: none;
+}
 
 .card {
     width:350px;
