@@ -1,0 +1,41 @@
+.pictures {
+    width:350px;
+    border-top-left-radius:15px;
+    border:2px solid black;
+    border-top-right-radius:15px;
+    opacity: 85%;
+}
+
+.pictures:hover {
+    cursor: pointer;
+    width:352px;
+    opacity: 100%;
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: white;
+}
+
+.card {
+    width:350px;
+    border-radius: 15px;
+    border:2px solid black;
+
+}
+
+.buttonColor {
+    background: black;
+    color:white;
+    border-radius: 2px solid white;
+}
+
+.backgroundHeader {
+    background: rgba(12, 3, 3, 0.89);
+    font-family: 'Roboto Mono', monospace;
+    border:2px solid white;
+    border-radius: 5px;
+}
