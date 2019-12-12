@@ -56,3 +56,11 @@ a:hover {
     font-size:30px;
     margin-top:70px;
 }
+
+.navbar-brand {
+    cursor: pointer;
+}
+
+.formHide {
+    display: none;
+}
