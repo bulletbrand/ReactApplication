@@ -30,13 +30,17 @@ a:hover {
     width:350px;
     border-radius: 15px;
     border:2px solid black;
-
+    height:auto;
 }
 
 .buttonColor {
     background: black;
     color:white;
     border-radius: 2px solid white;
+}
+.buttonColor:hover{
+    background: green;
+    cursor: pointer;
 }
 
 .backgroundHeader {
